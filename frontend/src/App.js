@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 
 // --- Configuration ---
 // This should point to the address of your Node.js backend server.
-const API_BASE_URL = 'http://localhost:5001';
+const API_BASE_URL = 'https://search-engine-app-mjp1.onrender.com';
 
 // --- Reusable Components ---
 
